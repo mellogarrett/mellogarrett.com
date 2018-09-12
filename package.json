@@ -1,0 +1,23 @@
+{
+  "name": "mellogarrett.com",
+  "version": "1.0.0",
+  "description": "Garrett Thompson's resume as a GraphQL API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellogarrett/mellogarrett.com.git"
+  },
+  "author": "Garrett Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mellogarrett/mellogarrett.com/issues"
+  },
+  "homepage": "https://github.com/mellogarrett/mellogarrett.com#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.0.6",
+    "lodash.merge": "^4.6.1"
+  }
+}
