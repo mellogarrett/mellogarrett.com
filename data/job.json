@@ -1,0 +1,26 @@
+[
+  {
+    "jobId": 1,
+    "title": "Software Developer II",
+    "employer": "Onovative",
+    "timePeriod": "Feb 2017 - Present"
+  },
+  {
+    "jobId": 2,
+    "title": "Software Developer I",
+    "employer": "Onovative",
+    "timePeriod": "May 2016 – Feb 2017"
+  },
+  {
+    "jobId": 3,
+    "title": "Computer Programmer",
+    "employer": "Newcomb Oil",
+    "timePeriod": "Oct 2015 – May 2016"
+  },
+  {
+    "jobId": 4,
+    "title": "IT Technician",
+    "employer": "Newcomb Oil",
+    "timePeriod": "Nov 2013 – Oct 2015"
+  }
+]

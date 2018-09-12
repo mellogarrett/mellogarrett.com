@@ -8,6 +8,10 @@ const Resume = gql`
     education: [Education!]!
     skills: [Skill!]!
   }
+
+  extend type Query {
+    resume: Resume!
+  }
 `;
 
 module.exports = Resume;

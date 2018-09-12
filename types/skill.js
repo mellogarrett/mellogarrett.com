@@ -1,8 +1,18 @@
 const { gql } = require("apollo-server-lambda");
 
 const Skill = gql`
-  type Skill {
-    technology: String!
+  enum Skill {
+    JavaScript
+    Node
+    React
+    Preact
+    UIDesign
+    GraphQL
+    PostgreSQL
+    AWS
+    CloudArchitecture
+    Testing
+    Docker
   }
 `;
 

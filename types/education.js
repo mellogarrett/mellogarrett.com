@@ -4,6 +4,7 @@ const Education = gql`
   type Education {
     institution: String!
     timePeriod: String!
+    degreeOrConcentration: String!
     summary: String!
   }
 `;

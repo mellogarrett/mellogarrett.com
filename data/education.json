@@ -1,0 +1,14 @@
+[
+  {
+    "institution": "<Code Louisville>",
+    "timePeriod": "Fall 2015",
+    "degreeOrConcentration": "Frontend Development",
+    "summary": "Code Louisville is a code bootcamp in the Louisville, KY area that offers different development tracks."
+  },
+  {
+    "institution": "ECTC",
+    "timePeriod": "Fall 2011 – Spring 2013",
+    "degreeOrConcentration": "AAS Network Administration",
+    "summary": "Learned networking fundamentals, the OSI model, IP addressing, subnetting and more."
+  }
+]
