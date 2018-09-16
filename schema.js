@@ -14,10 +14,16 @@ const jobQueries = require("./queries/job");
 const linkQueries = require("./queries/link");
 const skillQueries = require("./queries/skill");
 const nameQueries = require("./queries/name");
+const ageQueries = require("./queries/age");
+const locationQueries = require("./queries/location");
+const currentEmployerQueries = require("./queries/current-employer");
 
 const baseType = gql`
   type Query {
-    name: String
+    name: String!
+    age: Int!
+    location: String!
+    currentEmployer: String!
   }
 `;
 
@@ -38,6 +44,9 @@ module.exports = {
     jobQueries,
     linkQueries,
     skillQueries,
-    nameQueries
+    nameQueries,
+    ageQueries,
+    locationQueries,
+    currentEmployerQueries
   )
 };
