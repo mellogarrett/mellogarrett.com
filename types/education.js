@@ -7,6 +7,10 @@ const Education = gql`
     degreeOrConcentration: String!
     summary: String!
   }
+
+  extend type Query {
+    education: [Education!]!
+  }
 `;
 
 module.exports = Education;

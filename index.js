@@ -6,4 +6,4 @@ const server = new ApolloServer({
   resolvers
 });
 
-exports.index = server.createHandler();
+exports.handler = server.createHandler();

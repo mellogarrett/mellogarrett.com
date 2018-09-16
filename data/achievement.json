@@ -1,11 +1,11 @@
 [
   {
-    "achievement": "Led the transition of our product from an on-premises product to a cloud-based platform using AWS.",
+    "summary": "Led the transition of our product from an on-premises product to a cloud-based platform using AWS.",
     "relevantSkills": ["AWS", "Cloud Architecture"],
     "jobId": 1
   },
   {
-    "achievement": "Built several production Node.js web services that I deployed & managed in AWS using several products including ECS, Fargate, Docker, API Gateway, RDS, Lambda, and more.",
+    "summary": "Built several production Node.js web services that I deployed & managed in AWS using several products including ECS, Fargate, Docker, API Gateway, RDS, Lambda, and more.",
     "relevantSkills": [
       "JavaScript (ES6+)",
       "Node",
@@ -16,12 +16,12 @@
     "jobId": 1
   },
   {
-    "achievement": "Built out a suite of tests with Mocha & Chai and documented my modules with JSDoc.",
+    "summary": "Built out a suite of tests with Mocha & Chai and documented my modules with JSDoc.",
     "relevantSkills": ["JavaScript (ES6+)", "Testing"],
     "jobId": 1
   },
   {
-    "achievement": "Built & deployed a GraphQL server on top of our cloud data with Apollo Server, Sequelize, DataLoader and more, and deployed it to an AWS Fargate (Docker) cluster behind API Gateway.",
+    "summary": "Built & deployed a GraphQL server on top of our cloud data with Apollo Server, Sequelize, DataLoader and more, and deployed it to an AWS Fargate (Docker) cluster behind API Gateway.",
     "relevantSkills": [
       "JavaScript (ES6+)",
       "Node",
@@ -33,37 +33,37 @@
     "jobId": 1
   },
   {
-    "achievement": "Developed serverless Node.js apps for data collection from 3rd party services using Lambda, API Gateway, S3/SQS, and more.",
+    "summary": "Developed serverless Node.js apps for data collection from 3rd party services using Lambda, API Gateway, S3/SQS, and more.",
     "relevantSkills": ["JavaScript (ES6+)", "Node", "PostgreSQL", "AWS"],
     "jobId": 1
   },
   {
-    "achievement": "Designed relational data structures in our AWS Aurora Postgres instances, and indexed tables appropriately to address performance in large datasets.",
+    "summary": "Designed relational data structures in our AWS Aurora Postgres instances, and indexed tables appropriately to address performance in large datasets.",
     "relevantSkills": ["PostgreSQL", "AWS", "Cloud Architecture"],
     "jobId": 1
   },
   {
-    "achievement": "Created a survey engine in React that allows users to build & send custom personalized surveys.",
+    "summary": "Created a survey engine in React that allows users to build & send custom personalized surveys.",
     "relevantSkills": ["JavaScript (ES6+)", "React", "Preact", "UI Design"],
     "jobId": 2
   },
   {
-    "achievement": "Improved UX of Razor views in C#/.NET apps.",
+    "summary": "Improved UX of Razor views in C#/.NET apps.",
     "relevantSkills": ["JavaScript (ES6+)", "UI Design"],
     "jobId": 2
   },
   {
-    "achievement": "Improved performance of complex SQL queries for generating reports.",
+    "summary": "Improved performance of complex SQL queries for generating reports.",
     "relevantSkills": ["PostgreSQL"],
     "jobId": 2
   },
   {
-    "achievement": "Fixed bugs & added functionality to C#/.NET & Ruby on Rails controllers.",
+    "summary": "Fixed bugs & added functionality to C#/.NET & Ruby on Rails controllers.",
     "relevantSkills": [],
     "jobId": 2
   },
   {
-    "achievement": "Developed internal web apps for collecting performance review data, as well as a responsive web app for inventorying assets with a mobile device & bluetooth barcode scanner.",
+    "summary": "Developed internal web apps for collecting performance review data, as well as a responsive web app for inventorying assets with a mobile device & bluetooth barcode scanner.",
     "relevantSkills": [
       "JavaScript (ES6+)",
       "Node",
@@ -74,22 +74,22 @@
     "jobId": 3
   },
   {
-    "achievement": "Created & Improved SQL queries for ETL processes.",
+    "summary": "Created & Improved SQL queries for ETL processes.",
     "relevantSkills": ["PostgreSQL"],
     "jobId": 3
   },
   {
-    "achievement": "Managed users and their permissions in Active Directory.",
+    "summary": "Managed users and their permissions in Active Directory.",
     "relevantSkills": [],
     "jobId": 4
   },
   {
-    "achievement": "Configured routing & subnet settings on routers and switches.",
+    "summary": "Configured routing & subnet settings on routers and switches.",
     "relevantSkills": ["Cloud Architecture"],
     "jobId": 4
   },
   {
-    "achievement": "Ran network cabling through buildings and troubleshot network connected devices.",
+    "summary": "Ran network cabling through buildings and troubleshot network connected devices.",
     "relevantSkills": [],
     "jobId": 4
   }

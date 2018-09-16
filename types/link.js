@@ -5,6 +5,10 @@ const Link = gql`
     description: String!
     url: String!
   }
+
+  extend type Query {
+    links: [Link!]!
+  }
 `;
 
 module.exports = Link;

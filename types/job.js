@@ -5,7 +5,11 @@ const Job = gql`
     employer: String!
     title: String!
     timePeriod: String!
-    achievements: [Archievement!]!
+    achievements: [Achievement!]!
+  }
+
+  extend type Query {
+    experience: [Job!]!
   }
 `;
 
