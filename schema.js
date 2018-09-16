@@ -13,6 +13,7 @@ const educationQueries = require("./queries/education");
 const jobQueries = require("./queries/job");
 const linkQueries = require("./queries/link");
 const skillQueries = require("./queries/skill");
+const nameQueries = require("./queries/name");
 
 const baseType = gql`
   type Query {
@@ -36,6 +37,7 @@ module.exports = {
     educationQueries,
     jobQueries,
     linkQueries,
-    skillQueries
+    skillQueries,
+    nameQueries
   )
 };
