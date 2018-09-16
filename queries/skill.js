@@ -14,8 +14,6 @@ const skills = (parent, args, ctx, info) => {
       )
     ];
 
-    console.log({ skills });
-
     return skills;
   } catch (err) {
     console.log('Error in the "skills" query resolver: ', err);
