@@ -1,11 +1,11 @@
 [
   {
-    "summary": "Led the transition of our product from an on-premises product to a cloud-based platform using AWS.",
+    "summary": "Led the transition of our platform from an on-premises solution to a hybrid solution leveraging AWS.",
     "relevantSkills": ["AWS", "Cloud Architecture"],
     "jobId": 1
   },
   {
-    "summary": "Built several production Node.js web services that I deployed & managed in AWS using several products including ECS, Fargate, Docker, API Gateway, RDS, Lambda, and more.",
+    "summary": "Built and deployed various Node.js services to production in AWS using products including ECS, Fargate, Docker, API Gateway, RDS, Lambda and more.",
     "relevantSkills": [
       "JavaScript (ES6+)",
       "Node",
@@ -16,12 +16,12 @@
     "jobId": 1
   },
   {
-    "summary": "Built out a suite of tests with Mocha & Chai and documented my modules with JSDoc.",
+    "summary": "Started building out our first automated testing suite using tools like Mocha, Chai and Cypress.",
     "relevantSkills": ["JavaScript (ES6+)", "Testing"],
     "jobId": 1
   },
   {
-    "summary": "Built & deployed a GraphQL server on top of our cloud data with Apollo Server, Sequelize, DataLoader and more, and deployed it to an AWS Fargate (Docker) cluster behind API Gateway.",
+    "summary": "Built a GraphQL API with Apollo Server, Sequelize, DataLoader and more, and deployed it to our production AWS environment with Fargate (Docker) and API Gateway.",
     "relevantSkills": [
       "JavaScript (ES6+)",
       "Node",
@@ -33,17 +33,17 @@
     "jobId": 1
   },
   {
-    "summary": "Developed serverless Node.js apps for data collection from 3rd party services using Lambda, API Gateway, S3/SQS, and more.",
+    "summary": "Developed various serverless Node.js apps including APIs, build servers, and more with Lambda, API Gateway, S3/SQS, and more.",
     "relevantSkills": ["JavaScript (ES6+)", "Node", "PostgreSQL", "AWS"],
     "jobId": 1
   },
   {
-    "summary": "Designed relational data structures in our AWS Aurora Postgres instances, and indexed tables appropriately to address performance in large datasets.",
+    "summary": "Implemented a “temporal” database design, which allowed us to track historical changes of all records over time.",
     "relevantSkills": ["PostgreSQL", "AWS", "Cloud Architecture"],
     "jobId": 1
   },
   {
-    "summary": "Created a survey engine in React that allows users to build & send custom personalized surveys.",
+    "summary": "Created a tool that allows users to build custom surveys & send personalized survey invitations using React, Preact, AWS S3 and more.",
     "relevantSkills": ["JavaScript (ES6+)", "React", "Preact", "UI Design"],
     "jobId": 2
   },
@@ -86,11 +86,6 @@
   {
     "summary": "Configured routing & subnet settings on routers and switches.",
     "relevantSkills": ["Cloud Architecture"],
-    "jobId": 4
-  },
-  {
-    "summary": "Ran network cabling through buildings and troubleshot network connected devices.",
-    "relevantSkills": [],
     "jobId": 4
   }
 ]

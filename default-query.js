@@ -1,5 +1,10 @@
-const defaultQuery = `
-# Hi! I'm Garrett, and this is my Resumé in the form of a GraphQL API
+const defaultQuery = `# Hi! 
+#
+# I'm Garrett, and this is my 
+# resumé in the form of a GraphQL API.
+# This API is running in AWS Lambda 
+# and the code can be seen at: 
+# https://github.com/mellogarrett/mellogarrett.com
 
 query {
   name
@@ -23,7 +28,6 @@ query {
     description
     url
   }
-}
-`;
+}`;
 
 module.exports = defaultQuery;
